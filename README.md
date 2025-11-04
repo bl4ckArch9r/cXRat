@@ -43,7 +43,7 @@ This project is designed for **educational and research purposes only**, making 
 
 | Enrollment Page | OTP Verified | Demo Flow |
 |:----------------:|:-------------:|:-----------:|
-| ![Enrollment Page](screenshots/1.png "Scan QR to enroll a TOTP app") | ![OTP Verified](screenshots/✅.png "OTP verified — access granted") | 
+| ![Enrollment Page](1.png "Scan QR to enroll a TOTP app") | ![OTP Verified](✅.png "OTP verified — access granted") | 
 
 ---
 
