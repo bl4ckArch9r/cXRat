@@ -42,7 +42,7 @@ This project is designed for **educational and research purposes only**, making 
 ## 📸 Project Visuals
 
 | Enrollment Page | OTP Verified | 
-|:----------------:|:-------------:|:-----------:|
+|:----------------:|:-------------:|
 | ![Enrollment Page](1.png "Scan QR to enroll a TOTP app") | ![OTP Verified](✅.png "OTP verified — access granted") | 
 
 ---
