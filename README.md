@@ -37,6 +37,67 @@ This project is designed for **educational and research purposes only**, making 
 - **Frontend:** HTML, CSS, JavaScript  
 - **Version Control:** Git & GitHub  
 
+---
+
+## 📸 Project Visuals
+
+| Enrollment Page | OTP Verified | Demo Flow |
+|:----------------:|:-------------:|:-----------:|
+| ![Enrollment Page](screenshots/enroll.png "Scan QR to enroll a TOTP app") | ![OTP Verified](screenshots/verify.png "OTP verified — access granted") | ![Demo Flow](screenshots/demo.gif "Enroll → Verify → Replay Protection") |
+
+---
+
+## 🔒 Security Notice
+This project is intended **for local educational use only**.  
+Do **not** use it in production or with real credentials.
+
+Missing production-grade safeguards include:
+- 🔑 Secure key vault (e.g., AWS KMS or HashiCorp Vault)
+- 🚫 Rate limiting & brute-force protection
+- 🧱 Encrypted database storage
+- 🌐 HTTPS with trusted certificates
+- 📜 Audit logging & monitoring
+
+---
+
+## 🧩 Future Upgrades
+- 🧭 **Admin Dashboard & Audit Logs**
+- 🔢 **Backup Codes & SMS Fallback (Twilio Integration)**
+- 🗝️ **Secure Key Vault (KMS / Vault)**
+- 🗃️ **PostgreSQL Migration for multi-user scalability**
+- 🐳 **Dockerization & CI/CD Workflow**
+- 🧠 **Adaptive Risk-Based Authentication**
+
+---
+
+## 📈 Skills Demonstrated
+- Secure Authentication Implementation  
+- Web Security Fundamentals  
+- Flask Development  
+- Cryptography (TOTP, HMAC)  
+- Research & Documentation  
+
+---
+
+
+
+---
+
+## 🧠 Author
+**Minosh Umayanga**  
+Cybersecurity Researcher · Developer · Ethical Hacker  
+
+> 🌐 [LinkedIn](https://www.linkedin.com/in/minoshumayanga) · 🐙 [GitHub](https://github.com/yourname)
+
+---
+
+## 🪪 License
+This repository is shared under the **Educational License** for learning purposes.  
+You may fork and experiment locally but **do not deploy it publicly or in production**.
+
+---
+
+
 
 
 
